@@ -1,4 +1,4 @@
-time,local_time,Air temperature (°C)(t2m), Air density(rhoa),Top of atmosphere solar irradiance (swtdn)
+time,local_time,Air temperature ,Air density,Top of atmosphere solar irradiance
 01-01-2022 00:00,01-01-2022 01:00,-11.744,1.326,0
 01-01-2022 01:00,01-01-2022 02:00,-11.928,1.329,0
 01-01-2022 02:00,01-01-2022 03:00,-12.152,1.331,0
@@ -8759,3 +8759,4 @@ time,local_time,Air temperature (°C)(t2m), Air density(rhoa),Top of atmosphere s
 31-12-2022 21:00,31-12-2022 22:00,-0.152,1.23,0
 31-12-2022 22:00,31-12-2022 23:00,-0.35,1.234,0
 31-12-2022 23:00,01-01-2023 00:00,-0.71,1.238,0
+
