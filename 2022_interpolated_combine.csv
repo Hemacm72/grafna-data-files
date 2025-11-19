@@ -1,4 +1,4 @@
-SampleDateTime,cg2_SiTemperature,cg2_MplTemperature,cg2_SiHumidity,cg1_Temperature,Air temperature (°C)(t2m), Air density(rhoa),Top of atmosphere solar irradiance (swtdn)
+SampleDateTime,cg2_SiTemperature,cg2_MplTemperature,cg2_SiHumidity,cg1_Temperature,Air temperature, Air density,Top of atmosphere solar irradiance
 01-01-2022 00:00,0,0,0,0,-11.744,1.326,0
 01-01-2022 01:00,0,0,0,0,-11.928,1.329,0
 01-01-2022 02:00,0,0,0,0,-12.152,1.331,0
@@ -8759,3 +8759,4 @@ SampleDateTime,cg2_SiTemperature,cg2_MplTemperature,cg2_SiHumidity,cg1_Temperatu
 31-12-2022 21:00,1.287499994,0.637500003,109.2749996,0.7025,-0.152,1.23,0
 31-12-2022 22:00,1.645000011,0.99999997,109.1450005,1.06,-0.35,1.234,0
 31-12-2022 23:00,1.662499964,1.014999986,109.2075005,1.1,-0.71,1.238,0
+
